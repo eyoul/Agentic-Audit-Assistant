@@ -1,0 +1,6 @@
+langchain~=0.3.25
+langchain_openai~=0.3.18
+langchain_groq~=0.3.6
+langchain_google_genai~=2.1.9
+python-dotenv~=1.1.0
+pyyaml~=6.0.2
